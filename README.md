@@ -1,5 +1,4 @@
 # hello-world
-github intro guide repo
 
 
 Hello there fellow flesh constructs and also Steven! 
